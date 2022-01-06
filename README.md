@@ -1,4 +1,4 @@
-# BIO 2012 Question 2
+# Question 2
 
 Ahead of next week's BIO (even if you're not doing it, answering questions is good practice) please attempt question 2 (feel free to do 1 and 3 if you're finished) from [2012](https://olympiad.org.uk/papers/2012/bio/round_one.html). 
 
